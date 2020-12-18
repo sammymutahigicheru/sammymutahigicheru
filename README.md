@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there 👋,I am sammy mutahi,Android Developer @Protoenergy Limited</h1>
+<h1 align="center">Hi there 👋,I am sammy mutahi.Android Developer @Protoenergy Limited</h1>
 <br />
 
 **My stack of choice**  
