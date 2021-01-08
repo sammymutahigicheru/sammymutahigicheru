@@ -8,7 +8,7 @@
 - Native Apps [<img alt="Sammy Mutahi's Github repositories related to Android" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png">](https://github.com/sammymutahigicheru?tab=repositories&q=&language=android)
 - React [<img alt="Sammy Mutahi's Github repositories related to React" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">](https://github.com/sammymutahigicheru?tab=repositories&q=&language=react)
 - NodeJs [<img alt="Sammy Mutahi's Github repositories related to Node" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">](https://github.com/sammymutahigicheru?tab=repositories&q=&language=nodejs)
-- Database [<img alt="Sammy Mutahi's Github repositories related to Postgresql" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png">](https://github.com/sammymutahigicheru?tab=repositories&q=postgresql&type=&language=sql)
+- Database [<img alt="Sammy Mutahi's Github repositories related to Postgresql" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">](https://github.com/sammymutahigicheru?tab=repositories&q=mongodb&type=&language=nosql)
 
 <br />
 
